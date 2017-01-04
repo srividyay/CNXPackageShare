@@ -16,8 +16,8 @@
             <exp:EffectiveDate>2017-01-01</exp:EffectiveDate>
             <exp:PrimarySubscriber>
                 <exp:MemberID>1163688950010002</exp:MemberID>
-                <exp:First>DEVAN</exp:First>
-                <exp:Last>MANO</exp:Last>
+                <exp:First>ABC</exp:First>
+                <exp:Last>TESTER</exp:Last>
                 <exp:DateOfBirth>2000-12-10</exp:DateOfBirth>
                 <exp:GenderType>M</exp:GenderType>
                 <exp:MaritalStatusType>R</exp:MaritalStatusType>
