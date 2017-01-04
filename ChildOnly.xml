@@ -1,0 +1,67 @@
+<exp:FeedFile
+    xmlns:exp="http://www.connecture.com/Schemas">
+    <exp:Header>
+        <exp:Version>1.0</exp:Version>
+        <exp:SubmitDate>2016-11-21T14:16:01.703-05:00</exp:SubmitDate>
+        <exp:CorrelationID>2016-11-21</exp:CorrelationID>
+        <exp:FileType>IFP-PA</exp:FileType>
+        <exp:ResubmitCount>1</exp:ResubmitCount>
+    </exp:Header>
+    <exp:FeedData>
+        <exp:FileID>IBP_AHNJ_1_20161121_130409.txt</exp:FileID>
+        <exp:RecordCount>1</exp:RecordCount>
+        <exp:PolicyData>
+            <exp:PolicyID>116368895001077606NJ0040065007</exp:PolicyID>
+            <exp:GroupID>63266</exp:GroupID>
+            <exp:EffectiveDate>2017-01-01</exp:EffectiveDate>
+            <exp:PrimarySubscriber>
+                <exp:MemberID>1163688950010002</exp:MemberID>
+                <exp:First>DEVAN</exp:First>
+                <exp:Last>MANO</exp:Last>
+                <exp:DateOfBirth>2000-12-10</exp:DateOfBirth>
+                <exp:GenderType>M</exp:GenderType>
+                <exp:MaritalStatusType>R</exp:MaritalStatusType>
+                <exp:Plan>
+                    <exp:PlanID>1</exp:PlanID>
+                </exp:Plan>
+                <exp:Plan>
+                    <exp:PlanID>2</exp:PlanID>
+                </exp:Plan>
+                <exp:SSN>161014121</exp:SSN>
+                <exp:Addresses>
+                    <exp:Address>
+                        <exp:street1>100 MARKET STREET</exp:street1>
+                        <exp:city>CHERRY HILL</exp:city>
+                        <exp:state>NJ</exp:state>
+                        <exp:zip>08002</exp:zip>
+                        <exp:zip4>0000</exp:zip4>
+                    </exp:Address>
+                </exp:Addresses>
+                <exp:PhoneNumbers>
+                    <exp:Phone>
+                        <exp:PhoneType>home</exp:PhoneType>
+                        <exp:Number>
+                            <exp:AreaCode>214</exp:AreaCode>
+                            <exp:Num>2152374</exp:Num>
+                        </exp:Number>
+                    </exp:Phone>
+                </exp:PhoneNumbers>
+                <exp:Email>GUNASUNDARI.SARAVANAKHUMARAN@IBX.COM</exp:Email>
+                <exp:PrimaryCareProvider>
+                    <exp:ProviderID>002808331</exp:ProviderID>
+                    <exp:Name>Drexel Internal Medicine</exp:Name>
+                </exp:PrimaryCareProvider>
+                <exp:StartDate>2017-01-01</exp:StartDate>
+            </exp:PrimarySubscriber>
+            <exp:Plan>
+                <exp:PlanID>1</exp:PlanID>
+                <exp:PlanXREF>77606NJ004006500</exp:PlanXREF>
+            </exp:Plan>
+            <exp:Plan>
+                <exp:PlanID>2</exp:PlanID>
+                <exp:PlanXREF>10260174</exp:PlanXREF>
+            </exp:Plan>
+            <exp:LastRenewalDate>2017-01-01</exp:LastRenewalDate>
+        </exp:PolicyData>
+    </exp:FeedData>
+</exp:FeedFile>
